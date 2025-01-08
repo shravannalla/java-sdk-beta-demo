@@ -99,6 +99,7 @@
                         </goals>
                         <configuration>
                             <!-- Prevent `gpg` from using pinentry programs -->
+                            <keyname>shravan-test</keyname>
                             <gpgArguments>
                                 <arg>--pinentry-mode</arg>
                                 <arg>loopback</arg>
