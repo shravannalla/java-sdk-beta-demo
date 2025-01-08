@@ -15,8 +15,10 @@
 
     <developers>
         <developer>
-            <id>java-sdk-beta-demo</id>
-            <name>java-sdk-beta-demo</name>
+            <name>Shravankumar Nalla</name>
+            <email>nallashravansk@gmail.com</email>
+            <organization>io.github.shravannalla</organization>
+            <organizationUrl>https://github.com/shravannalla</organizationUrl>
         </developer>
     </developers>
     <scm>
